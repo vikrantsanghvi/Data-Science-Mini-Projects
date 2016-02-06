@@ -1,0 +1,8 @@
+Q1: make folder       0/1 (no folder in git repo)
+Q2: markdown cell     0/1 (no markdown cell)
+Q3: execute code cell 1/1
+Q4: suffix_3          0/2 (prefix not suffix, no return)
+Q5: import            2/2
+Q6: matrix            2/3 (third test case)
+
+Total:                5/10
