@@ -1,0 +1,10 @@
+Q1. (review score comparison) :         /20
+Q2. (visualization and analysis) :      /10
+Q3. (clustering) :                      /30
+Q4. (cluster visualization) :           /15
+Q5. (outlier detection) :               /15
+Q6. (analysis) :                        /10
+
+Late Penalty (if any) :
+
+Total :                                 0/100 (cannot execute code, absolute file paths)
