@@ -1,5 +1,5 @@
 Q1. (review score comparison) :         15/20 (lexicon not stemmed)
-Q2. (visualization and analysis) :      0/10 (clearly, from visualization, seems like scoring method implementation is faulty)
+Q2. (visualization and analysis) :      5/10 (missing analysis)
 Q3. (clustering) :                      30/30
 Q4. (cluster visualization) :           15/15
 Q5. (outlier detection) :               15/15
@@ -7,4 +7,4 @@ Q6. (analysis) :                        10/10
 
 Late Penalty (if any) :
 
-Total :                                 85/100 (cannot execute code, absolute file paths)
+Total :                                 90/100 (cannot execute code, absolute file paths)
